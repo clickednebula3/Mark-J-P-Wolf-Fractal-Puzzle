@@ -5,4 +5,8 @@ I used Breadth First Search method to solve Mark J. P. Wolf's Fractcal Maze.<br/
 
 I recommend running via `node --max-old-space-size=8192 index.js` for more ram.<br/>
 Read each solution from its bottom to its top.<br/>
-Change the number of steps directly from the constant in index.js (Default: 30).
+Change the number of steps directly from the constant in index.js (Default: 30).<br/>
+
+![](https://github.com/clickednebula3/Mark-J-P-Wolf-Fractal-Puzzle/blob/main/solutions_at_24.png?raw=true)
+![](https://github.com/clickednebula3/Mark-J-P-Wolf-Fractal-Puzzle/blob/main/solutions_at_26.png?raw=true)
+![](https://github.com/clickednebula3/Mark-J-P-Wolf-Fractal-Puzzle/blob/main/solutions_at_28.png?raw=true)
