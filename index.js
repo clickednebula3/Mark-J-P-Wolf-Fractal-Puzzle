@@ -250,7 +250,7 @@ function forward (node) {
     return false;
 }
 
-console.log("This program is made by clickednebula3.");
+console.log("This BFS solver by clickednebula3, Fractal Maze by Mark J. P. Wolf.");
 console.log("I used Breadth First Search method to solve Mark J. P. Wolf's Fractcal Maze.");
 console.log("I recommend running via [node --max-old-space-size=8192 index.js] for more ram.");
 console.log("Read each solution from its bottom to its top.");
